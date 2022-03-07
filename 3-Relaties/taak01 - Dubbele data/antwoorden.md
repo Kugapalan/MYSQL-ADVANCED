@@ -1,14 +1,14 @@
 # Antwoorden opdracht 1
 
 Antwoord in bytes:
-171
+2.858.949
 Antwoord in kilobytes:
-0.171
+2858
 # Antwoorden opdracht 2
 
 Hoeveel scheelt het in kilobytes voor de `platform` kolom?
-166,88
+6,72
 Hoeveel scheelt het in kilobytes voor de `genre` kolom?
-217,191
+8,98
 Hoeveel scheelt het in kilobytes voor de `publisher` kolom?
-6497,71
+4,72
